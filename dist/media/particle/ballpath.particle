@@ -1,0 +1,23 @@
+particle_system ballpath
+{
+	material Examples/Smoke
+	particle_width 10
+	particle_height 10
+	quota 500
+	billboard_type point
+	emitter Point
+	{
+		emission_rate 30
+		direction 1 0 0
+		velocity 20
+		time_to_live 4
+		angle 30
+	}
+	
+	affector DeflectorPlane
+	{
+		plane_point 0 20 0
+		plane_normal 0 -1 0
+		bounce 1.0
+	}
+}

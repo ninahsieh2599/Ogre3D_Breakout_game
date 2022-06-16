@@ -1,0 +1,15 @@
+material Plane/terr_dirt-grass
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1
+
+			texture_unit
+			{
+				texture terr_dirt-grass.jpg
+			}
+		}
+	}
+}

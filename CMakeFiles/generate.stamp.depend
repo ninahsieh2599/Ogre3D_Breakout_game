@@ -1,0 +1,27 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake
+C:/Users/ninab/Downloads/ogre-sdk-v13.3.2-msvc141-x64/CMake/OGREConfig.cmake
+C:/Users/ninab/Downloads/ogre-sdk-v13.3.2-msvc141-x64/CMake/OGREConfigVersion.cmake
+C:/Users/ninab/Downloads/ogre-sdk-v13.3.2-msvc141-x64/CMake/OgreTargets-relwithdebinfo.cmake
+C:/Users/ninab/Downloads/ogre-sdk-v13.3.2-msvc141-x64/CMake/OgreTargets.cmake
+D:/game_Engine/OgreBullet_test/VC/build/CMakeFiles/3.23.0-rc4/CMakeCCompiler.cmake
+D:/game_Engine/OgreBullet_test/VC/build/CMakeFiles/3.23.0-rc4/CMakeCXXCompiler.cmake
+D:/game_Engine/OgreBullet_test/VC/build/CMakeFiles/3.23.0-rc4/CMakeRCCompiler.cmake
+D:/game_Engine/OgreBullet_test/VC/build/CMakeFiles/3.23.0-rc4/CMakeSystem.cmake
+D:/game_Engine/OgreBullet_test/VC/src/CMakeLists.txt
